@@ -10,6 +10,6 @@ Our Aptitude leader <strong> Pratik Parab</strong>.</p>
 
 ---
 
-<h4>I am a PHOENIX bird 4</h4>
-<h4>even if the past has burnt me 4</h4>
-<h4>I can still rise from the ashes. 4</h4>
+<h2>I am a PHOENIX bird </h2>
+<h2>even if the past has burnt me </h2>
+<h2>I can still rise from the ashes. </h2>
