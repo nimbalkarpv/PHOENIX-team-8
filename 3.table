@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int i=1,n,a;
+	cout<<"Enter a number of table wants"<<endl;
+	cin>>n;
+	cout<<"table of number : "<<n<<endl;
+	while(i<=10)
+	{
+		a=n*i;
+		cout<<a<<endl;
+		i++;
+	}
+	return 0;
+}
