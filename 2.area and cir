@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	float r,Area,Circumferance;
+	float pie=3.14;
+	
+	cout<<"Enter Radius of circle :"<<endl;
+	cin>>r;
+	
+	Area=pie*r*r;
+	
+	cout<<"Area of circle :="<<Area<<endl;
+     
+	 Circumferance=2*pie*r;
+	cout<<"Circumference of circle :="<<Circumferance<<endl;
+	return 0;
+}
