@@ -9,3 +9,7 @@ Our Communication leader <strong> Prajkta Bidwe</strong>.</p>
 Our Aptitude leader <strong> Pratik Parab</strong>.</p>
 
 ---
+
+<p>I am a PHOENIX bird.<br>
+even if the past has burnt me</p>
+I can still rise from the ashes.
