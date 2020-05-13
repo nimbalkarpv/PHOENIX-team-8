@@ -7,9 +7,9 @@ group_activity_1
 <h3>TEAM MEMBER </h3>
 
 ---
-<h5>PRAJKTA BIDWE </h5>
+<h5>PRAJKTA BIDWE </h5>                          
 <h5>PRAMOD GULMKAR </h5>
-<h5>PRATIK SHINDE </h5>
+<h5>PRATIK SHINDE </h5>                                    
 <h5>PRATIK PARAB</h5>
 <h5>PRATIK KAJLE </h5>
 <h5>PRATIK NIMBALKAR </h5>
